@@ -1,0 +1,5 @@
+ git commit -m "Add home page with hero, about, packages table"
+   git commit -m "Add booking form with 10 input types"
+   git commit -m "Add gallery.html with filter + favourites"
+   git commit -m "Add form validation + Local Storage in script.js"
+   git commit -m "Add accessibility: alt text, skip-link, ARIA labels"
